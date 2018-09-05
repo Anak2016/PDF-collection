@@ -1,0 +1,11 @@
+uHunt website: gives out question for competitive programming
+
+book
+The Visual Display of Quantitative Information
+	:lay foundation of visualising Quantitative data
+
+paper to read
+:Visualising and Understanding Convolutional Network
+
+:Cyclical Learning Rates for Training Neural Network
+	desc: How to choose a learning rate
